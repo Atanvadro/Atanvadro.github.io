@@ -1,2 +1,2 @@
-* Для запуска приложения - [index.html](/index.html)
-* Для запуска тестов - [test.html](/test.html)
+* Р”Р»СЏ Р·Р°РїСѓСЃРєР° РїСЂРёР»РѕР¶РµРЅРёСЏ - [index.html](Atanvadro.github.io/index.html)
+* Р”Р»СЏ Р·Р°РїСѓСЃРєР° С‚РµСЃС‚РѕРІ - [test.html](Atanvadro.github.io/test.html)
